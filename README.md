@@ -51,7 +51,7 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-<img src='https://www.loom.com/share/74e65ec2b24e4e6d833f7e4c6894a0f1?sid=b9520261-8836-4af3-856c-36696641a707' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+[![App Walkthrough](https://www.loom.com/share/74e65ec2b24e4e6d833f7e4c6894a0f1)](https://www.loom.com/share/74e65ec2b24e4e6d833f7e4c6894a0f1)
 
 GIF created with Loom (video)
 
